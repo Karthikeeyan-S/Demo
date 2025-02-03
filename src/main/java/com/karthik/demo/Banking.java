@@ -217,4 +217,8 @@ class Banking
 		}
 		sc.close();
 	}
+	public void dummyMethod()
+	{
+		System.out.println("This is a dummy message");
+	}
 }
